@@ -1,4 +1,4 @@
-﻿<html>
+<html>
 <head>
 <meta charset="UTF-8">
 <link rel="styleseet" href="kiroku01.css" type="text.css">
